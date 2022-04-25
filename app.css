@@ -1,0 +1,12 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+  }
+}
+
+.container {
+  max-width: 960px;
+}
